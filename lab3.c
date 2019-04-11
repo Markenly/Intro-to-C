@@ -1,7 +1,5 @@
 // Markenly Alusma
 
-// 11/23/17
-
 // lab 3 
 
 #define _CRT_SECURE_NO_WARNINGS
