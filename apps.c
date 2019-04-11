@@ -1,5 +1,4 @@
 ﻿// Markenly Alusma
-// 10/21/17
 //COP 2220
 //Large Program 2
 
