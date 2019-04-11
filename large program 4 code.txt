@@ -1,7 +1,5 @@
 // Markenly Alusma
 
-// 11/18/17
-
 // Drumset Inventory 
 
 // Last Program
