@@ -1,5 +1,4 @@
-// Markenly Alusma 
-// 10/9/2017,
+// Markenly Alusma
 // Letter Guessing Game
 
 
