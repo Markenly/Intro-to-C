@@ -1,5 +1,4 @@
-// Markenly Alusma 
-// 11/18/2017,
+// Markenly Alusma
 // Pluralizer
 
 
